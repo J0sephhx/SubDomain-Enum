@@ -1,0 +1,22 @@
+# --- Python Dependencies ---
+# The script requires the 'rich' library for terminal output.
+rich>=13.0.0
+
+# --- System Dependencies (Mandatory) ---
+# The following tools must be installed separately and added to your system PATH.
+# This Python script wraps these tools; it will not work without them.
+
+# 1. Subfinder (Subdomain Discovery)
+# Source: https://github.com/projectdiscovery/subfinder
+
+# 2. DNSx (DNS Resolution)
+# Source: https://github.com/projectdiscovery/dnsx
+
+# 3. Naabu (Port Scanning)
+# Source: https://github.com/projectdiscovery/naabu
+
+# 4. HTTPx (Web Probing - GO Version)
+# Source: https://github.com/projectdiscovery/httpx
+
+# 5. Katana (Crawling)
+# Source: https://github.com/projectdiscovery/katana
